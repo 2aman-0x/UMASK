@@ -8,5 +8,12 @@ output: octal format ```0022``` or ```0002```
 
 example = ```umask u+rw, g+rw,o-r```  
 
+## To change Default permission permanently
+
+Add the permission in ```.bashrc``` file  
+
+
+
+
 
 
