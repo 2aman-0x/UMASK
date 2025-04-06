@@ -1,4 +1,6 @@
-## How to check current default persmission?
+source : [here](https://youtu.be/Y-pd5iTXJjs?si=6weiVa_3n2e3BCvE)
+
+## How to check current default permission?
 
 ```umask``` or ```umask -S```
 output: octal format ```0022``` or ```0002```  
